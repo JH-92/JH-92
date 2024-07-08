@@ -1,4 +1,11 @@
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/JH-92"
+    width="600"
+    height="120"
+  />
+</a>
 <h2 align="center"><b>🛠 Tech Stack 🛠</b></h2>
 </br>
 <h3 align="center"><b> I am using..</b></h3>
